@@ -32,3 +32,11 @@ public class count {
 	       }
 	  }
 }
+{
+	public static void Lakhan{
+	}
+
+}
+
+
+
