@@ -3,6 +3,7 @@ import java.util.HashSet;
 import java.util.Iterator;
 
 public class count {
+ public class count1{
 	public static void main(String args[])
 	{
 	    HashSet x = new HashSet();
@@ -37,6 +38,6 @@ public class count {
 	}
 
 }
-
+}
 
 
